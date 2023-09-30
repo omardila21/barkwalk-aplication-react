@@ -1,12 +1,3 @@
-import axios from 'axios';
-axios.get('/api/mi-endpoint/')
-  .then(response => {
-    // Maneja la respuesta del backend
-  })
-  .catch(error => {
-    // Maneja los errores
-  });
-
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
