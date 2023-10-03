@@ -1,3 +1,6 @@
+Personal development with a frontend using Bootstrap and React JS and the backend in Django.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
